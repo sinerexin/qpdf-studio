@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.venv/
+runtime_logs/
+*.log
+.qpdf-password.dpapi
+personal-signing.p12
+private-key-encrypted.pem
+*.pfx
+.env
